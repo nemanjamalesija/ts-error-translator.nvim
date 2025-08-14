@@ -1,3 +1,16 @@
+# About This Fork
+
+**This is a fork of the original repo [ts-error-translator.nvim](https://github.com/dmmulroy/ts-error-translator.nvim).**
+
+I forked this project to address some issues I encountered and to change a few things that I found bothersome.
+
+**Main changes in this fork:**
+1. Fixed translations not working for functions that do not receive the correct number of arguments.
+2. Changed the notification message to display `Translation:` instead of `Typescript translation(s):`.
+3. Removed link references to documentation.
+
+---
+
 # ts-error-translator.nvim
 
 ![image](https://github.com/dmmulroy/ts-error-translator.nvim/assets/2755722/5fcd1f42-d941-491b-a89b-33ab3c2ed29b)
