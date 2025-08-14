@@ -26,7 +26,7 @@ To install the plugin, use your preferred Neovim plugin manager.
 To install the plugin using lazy.nvim, add the following to your plugin configuration:
 
 ```lua
-{ 'dmmulroy/ts-error-translator.nvim' }
+{ 'nemanjamalesija/ts-error-translator.nvim' }
 ```
 
 ### Packer
@@ -34,7 +34,7 @@ To install the plugin using lazy.nvim, add the following to your plugin configur
 To install the plugin using packer.nvim, add the following to your plugin configuration:
 
 ```lua
-use('dmmulroy/ts-error-translator.nvim',)
+use('nemanjamalesija/ts-error-translator.nvim',)
 ```
 
 ### Vim-Plug
@@ -42,7 +42,7 @@ use('dmmulroy/ts-error-translator.nvim',)
 To install the plugin using vim-plug, add the following to your plugin configuration:
 
 ```vim
-Plug 'dmmulroy/ts-error-translator.nvim'
+Plug 'nemanjamalesija/ts-error-translator.nvim'
 ```
 
 Then run `:PlugInstall` to install the plugin.
