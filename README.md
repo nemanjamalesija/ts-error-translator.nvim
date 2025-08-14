@@ -6,7 +6,7 @@ I forked this project to address some issues I encountered and to change a few t
 
 **Main changes in this fork:**
 1. Fixed translations not working for functions that do not receive the correct number of arguments.
-2. Changed the notification message to display `Translation:` instead of `Typescript translation(s):`.
+2. Changed the notification message to display `Translation:` instead of `Typescript translation(s):`. More inline with original vs code extension.
 3. Removed link references to documentation.
 
 ---
